@@ -1,0 +1,1 @@
+The code will display an alert with the message "4" why?:That’s because arrays are objects. So both shoppingCarts and fruits are the references to the same array.
