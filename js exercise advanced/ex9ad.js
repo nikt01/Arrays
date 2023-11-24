@@ -1,13 +1,13 @@
-function shuffle(array)
+function shuffle(array1)
 {
 
 
-  array.sort(() => Math.random() - 1.0);
+  array1.sort(() => Math.random() - 1.0);
 
   
 }
 
-let arr = [1, 2, 3];
+let arr1 = [1, 2, 3];
 
-shuffle(arr);
-alert(arr);
+shuffle(arr1);
+alert(arr1);

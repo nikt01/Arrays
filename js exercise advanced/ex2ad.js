@@ -1,3 +1,4 @@
+
 const originalArray = [1, 5, 10, 15, 20, 25];
 const a = 10;
 const b = 20;
